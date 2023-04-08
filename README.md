@@ -10,3 +10,5 @@ Computes experimentally the number of triplets/tuplets generated for the first k
 Computes experimentally the sieving probabilities for the second key guessing on the GIFT-like toy cipher. Necessitates to be linked with the Sodium library
 ## guess_gift.c 
 Computes and generates the tables summarizing the pre-sieving probabilities and generated triplets/tuplets of each Sbox type.
+## toyGIFT.h
+The GIFT-like toy cipher 
